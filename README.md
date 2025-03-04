@@ -8,7 +8,7 @@ I continue to actively deepen my knowledge in the programming field on my own an
 
 ---
 
-Right now I'm working on my own project, where I use MERN stack, called Price It. It's a simple tool that is used to find the price of a product in different stores. It is far from finished, but it's a great project for my self development. 👨‍💻
+Right now I'm working on my own project, where I use MERN stack, called Price It. It's a simple tool that is used to find the price of a product in different stores. It is far from finished, and it has lots of quirks, but it's a great project for my self development. 👨‍💻
 
 [Price it](https://price-it.vercel.app/search_tool)
 

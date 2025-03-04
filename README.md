@@ -14,9 +14,10 @@ Right now I'm working on my own project, where I use MERN stack, called Price It
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurynasGHub&layout=compact&bg_color=#3d444d)](https://github.com/LaurynasGHub/github-readme-stats)
+<div align="center">
+  <img alt="top_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurynasGHub&layout=compact&bg_color=0d1117&text_color=FFFFFF&hide_border=true"/>
+</div>
 
-#3d444d
 <!--
 **LaurynasGHub/LaurynasGHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

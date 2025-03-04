@@ -2,7 +2,7 @@
 
 It all started when I taught myself VBA, and wrote some macros for a SolidWorks CAD software. Doing this for a while made me realise I like to create new functions and see them make mine and my colleagues life easier. 😌
 
-I completed a JavaScript Full-Stack course where I worked on my programming skills not only during lectures, but on my free time too. Despite all the ups and downs, during this time I fell in love with programming and wanted to do it full time. 💻
+I completed a JavaScript Full-Stack course where I worked on my programming skills not only during lectures, but on my free time too. Despite all the ups and downs, during this time I fell in love with programming, and wanted to do it full time. 💻
 
 I continue to actively deepen my knowledge in the programming field on my own and I'm seeking to use my acquired knowledge in practice, extend it further, and learn new things from more experienced professionals. ✨
 

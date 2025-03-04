@@ -1,4 +1,6 @@
-## Hi there 👋
+## My name is Laurynas and this page is dedicated to my programming journey.
+
+### It all started when I learned VBA on myself and wrote some macros for a SolidWorks CAD software. Doing this for a while made me realise I like to create new functions and see them making mine and my colleague's life easier.
 
 <!--
 **LaurynasGHub/LaurynasGHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
